@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636795825 source:d:\program files\codeblocks\codeblocks work space\lab4\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<queue>
+	<stack>
+
